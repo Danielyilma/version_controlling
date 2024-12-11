@@ -7,7 +7,7 @@ This is a sample text file to demonstrate how Git works.
 - Branching and Merging
 - Staging and Commit
 - Remote Repositories
-
+- changing main branch
 
 git branch
 
