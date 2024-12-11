@@ -8,6 +8,8 @@ This is a sample text file to demonstrate how Git works.
 - Staging and Commit
 - Remote Repositories
 
+git merge conflict
+
 
 git branch
 
