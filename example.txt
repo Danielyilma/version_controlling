@@ -1,0 +1,22 @@
+# Welcome to Git Tutorial
+
+This is a sample text file to demonstrate how Git works.
+
+## Topics Covered
+- Git Basics
+- Branching and Merging
+- Staging and Commit
+- Remote Repositories
+
+## Tips for Using Git
+1. Always write clear commit messages.
+2. Use branches for new features.
+3. Keep your main branch stable.
+
+## Favorite Commands
+- `git status` - Check the current status of your repository.
+- `git add` - Stage changes for commit.
+- `git commit` - Save your changes to the repository.
+- `git log` - View the history of commits.
+
+Happy learning!
