@@ -8,6 +8,9 @@ This is a sample text file to demonstrate how Git works.
 - Staging and Commit
 - Remote Repositories
 
+
+git branch
+
 ## Tips for Using Git
 1. Always write clear commit messages.
 2. Use branches for new features.
